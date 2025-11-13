@@ -1,0 +1,102 @@
+{
+  "a": {
+    "question": "Which process turns liquid water into water vapor?",
+    "options": {
+      "a": "Evaporation",
+      "b": "Condensation",
+      "c": "Precipitation",
+      "d": "Infiltration"
+    },
+    "answer": "a"
+  },
+  "b": {
+    "question": "What forms when water vapor cools and changes back into liquid droplets?",
+    "options": {
+      "a": "Evaporation",
+      "b": "Condensation",
+      "c": "Runoff",
+      "d": "Transpiration"
+    },
+    "answer": "b"
+  },
+  "c": {
+    "question": "Which term describes water falling from clouds as rain, snow, sleet, or hail?",
+    "options": {
+      "a": "Evaporation",
+      "b": "Condensation",
+      "c": "Precipitation",
+      "d": "Collection"
+    },
+    "answer": "c"
+  },
+  "d": {
+    "question": "Which process is when plants release water vapor into the air?",
+    "options": {
+      "a": "Infiltration",
+      "b": "Runoff",
+      "c": "Precipitation",
+      "d": "Transpiration"
+    },
+    "answer": "d"
+  },
+  "e": {
+    "question": "What is the process called when water soaks into the soil and replenishes groundwater?",
+    "options": {
+      "a": "Infiltration",
+      "b": "Evaporation",
+      "c": "Condensation",
+      "d": "Collection"
+    },
+    "answer": "a"
+  },
+  "f": {
+    "question": "What do we call water that flows over the land surface into streams and rivers?",
+    "options": {
+      "a": "Infiltration",
+      "b": "Runoff",
+      "c": "Transpiration",
+      "d": "Condensation"
+    },
+    "answer": "b"
+  },
+  "g": {
+    "question": "Which term best describes places where water gathers such as lakes, rivers, and oceans?",
+    "options": {
+      "a": "Evaporation zones",
+      "b": "Atmosphere",
+      "c": "Collection",
+      "d": "Transpiration areas"
+    },
+    "answer": "c"
+  },
+  "h": {
+    "question": "What do you call water stored beneath Earth's surface in soil and rock?",
+    "options": {
+      "a": "Runoff",
+      "b": "Condensation",
+      "c": "Precipitation",
+      "d": "Groundwater"
+    },
+    "answer": "d"
+  },
+  "i": {
+    "question": "Which process describes ice or snow changing directly into water vapor (skipping the liquid stage)?",
+    "options": {
+      "a": "Sublimation",
+      "b": "Infiltration",
+      "c": "Condensation",
+      "d": "Transpiration"
+    },
+    "answer": "a"
+  },
+  "j": {
+    "question": "What is the main energy source that powers the water cycle?",
+    "options": {
+      "a": "Wind",
+      "b": "The Sun",
+      "c": "Gravity",
+      "d": "Tectonic activity"
+    },
+    "answer": "b"
+  }
+}
